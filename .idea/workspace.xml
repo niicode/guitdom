@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b695ce98-cef1-4406-80a9-e9eee7086d4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions /types.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions /types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/actions /user_actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions /user_actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Header_footer/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header_footer/Footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Header_footer/Header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Header_footer/Header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/Register_login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Register_login/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/utils/Form/formActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/utils/Form/formActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/utils/Form/formfield.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/utils/Form/formfield.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/utils/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/utils/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/reducers/user_reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/user_reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/middleware/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jLBD0YDuBbTnYNaHEilXQ2Mk6z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b695ce98-cef1-4406-80a9-e9eee7086d4c" name="Default Changelist" comment="" />
+      <created>1603573380970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603573380970</updated>
+    </task>
+    <servers />
+  </component>
+</project>

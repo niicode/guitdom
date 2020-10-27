@@ -1,6 +1,8 @@
 import React from 'react';
 import {Link } from 'react-router-dom'
 
+import LocalMallIcon from '@material-ui/icons/LocalMall';
+
 const MyButton = (props) => {
 
     const buttons = ()=>{
@@ -16,6 +18,28 @@ const MyButton = (props) => {
                 </Link>
 
             break; 
+            case "bag_link":
+                template = 
+                <div className="bag_link"
+                    onClick={()=>{
+                        props.runAction();
+                    }}    
+                >
+                    <LocalMallIcon/>
+                    
+                </div>
+            break;
+            case "add_to_cart_link":
+                template=
+                <div className="add_to_cart_link"
+                    onClick={()=>{
+                        props.runAction();
+                    }}
+                >
+                    <LocalMallIcon/>
+                    Add to Cart
+                </div>
+            break;
             default:
                 template= ''
         }

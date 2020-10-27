@@ -43,8 +43,8 @@ const Footer = () => {
                                 <EmailIcon className ="icon"
                                 />
                                 <div className="nfo">
-                                    <div>Phone</div>
-                                    <div>Mon-Sun/ +233 50 143 0726</div>
+                                    <div>Email</div>
+                                    <div>niidarku66@gmail.com</div>
                                 </div>
                             </div>
                         </div>
